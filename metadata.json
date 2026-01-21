@@ -1,0 +1,9 @@
+{
+  "name": "Albertus AI - Future of Learning",
+  "description": "A high-performance, AI-integrated remake of Albertus Magnus College's digital experience, featuring real-time voice, video generation, and advanced academic grounding.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
